@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main img {
+  float: right;
+}
+
+aside {
+  position: relative;
+  width: 20em;
+  text-align: center;
+}
+
+aside img {
+  width: 100%;
+  height: auto;
+  float: none;
+}
+
+aside h2 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+main ul {
+  clear: both;
+}
+
+/* Class Selectors */
+.box {
+  margin: 1rem;
+  border: 1px solid rgb(0 0 0 / 10%);
+  padding: 1rem;
+  background-color: #ddd;
+  color: #000;
+}

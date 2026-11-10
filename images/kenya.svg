@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Kenya landscape placeholder</title>
+  <desc id="desc">A simple illustration of a Kenyan landscape with a warm sky, an acacia tree, and green grassland.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f9c74f"/>
+      <stop offset="100%" stop-color="#f9844a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <circle cx="620" cy="120" r="58" fill="#fff3b0"/>
+  <path d="M0 320 Q 180 250 360 315 T 800 285 V450 H0 Z" fill="#90be6d"/>
+  <path d="M0 375 Q 240 315 480 370 T 800 345 V450 H0 Z" fill="#6a994e"/>
+  <path d="M0 420 Q 300 385 800 415 V450 H0 Z" fill="#386641"/>
+  <g fill="#3a2f1b">
+    <rect x="252" y="190" width="10" height="150" rx="4"/>
+    <path d="M257 200 C 210 190 185 165 170 140 C 205 150 235 170 257 190 Z"/>
+    <path d="M257 200 C 304 190 329 165 344 140 C 309 150 279 170 257 190 Z"/>
+    <path d="M257 175 C 230 150 220 125 218 100 C 245 120 258 145 257 175 Z"/>
+    <path d="M257 175 C 284 150 294 125 296 100 C 269 120 256 145 257 175 Z"/>
+  </g>
+</svg>
